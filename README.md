@@ -1,3 +1,7 @@
+## Project description
+
+Pomodoro Timer implementation in React. More about [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
